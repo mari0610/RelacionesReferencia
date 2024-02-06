@@ -1,0 +1,3 @@
+C:/CLionProjects/RelacionManagerGradeStudentSubject/cmake-build-debug/CMakeFiles/RelacionManagerGradeStudentSubject.dir
+C:/CLionProjects/RelacionManagerGradeStudentSubject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/RelacionManagerGradeStudentSubject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
